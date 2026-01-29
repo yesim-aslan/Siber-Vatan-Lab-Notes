@@ -48,9 +48,6 @@ Veriyi Okuma (Matris Gösterimi):
 Bu sorgu sonucunda tablodaki veriler listelendi ve "White-Hat" (Beyaz Şapkalı) hacker olan "Hackviser" kullanıcısının kimliği tespit edildi.
 🚀 Kazanımlar (Key Takeaways)
 Misconfiguration: En güçlü şifreleme algoritmaları bile kullanılsa, varsayılan (default) ayarların değiştirilmemesi sistemi savunmasız bırakır.
-
 Analitik Düşünce: SQL Injection veya veritabanı sömürüsü, sadece kod bilmek değil; verinin nasıl modellendiğini (matematiksel yapısını) anlamaktır.
-
 Keşif (Recon): Nmap taraması yapılmadan bir saldırı vektörü belirlenemez.
-
 Yeşim Aslan | Matematik Öğrencisi & Siber Güvenlik Araştırmacısı
