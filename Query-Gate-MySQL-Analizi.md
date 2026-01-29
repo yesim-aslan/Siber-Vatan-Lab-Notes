@@ -43,7 +43,8 @@ SHOW TABLES;
 -- Sonuç: 'hacker_list' tablosu bulundu.
 ```
 Veriyi Okuma (Matris Gösterimi):
-```SELECT * FROM hacker_list;
+```SQL
+SELECT * FROM hacker_list;
 ```
 Bu sorgu sonucunda tablodaki veriler listelendi ve "White-Hat" (Beyaz Şapkalı) hacker olan "Hackviser" kullanıcısının kimliği tespit edildi.
 🚀 Kazanımlar (Key Takeaways)
