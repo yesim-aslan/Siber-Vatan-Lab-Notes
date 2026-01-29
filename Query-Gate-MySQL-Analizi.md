@@ -11,8 +11,8 @@ Bu laboratuvarın amacı, hedef sistemdeki güvenlik açığını tespit edip gi
 Hedef makineyi (172.20.x.x) analiz etmek için **Nmap** aracıyla port taraması gerçekleştirdim.
 
 ```bash
-nmap 172.20.7.45
-# Sonuç: 3306/tcp OPEN (MySQL)```
+nmap 172.20.7.45```
+# Sonuç: 3306/tcp OPEN (MySQL)
 Analiz: Tarama sonucunda 3306 portunun açık olduğunu ve MySQL veritabanı servisinin çalıştığını tespit ettim. Veritabanı portunun dış ağa açık olması, kritik bir Güvenlik Yapılandırma Hatasıdır (Security Misconfiguration).
 🧠 Matematiksel Yaklaşım: İlişkisel Cebir (Relational Algebra)
 Bir Matematik bölümü öğrencisi olarak, SQL dilini ezberlemek yerine, bu dilin temelini oluşturan İlişkisel Cebir (Relational Algebra) ve Kümeler Teorisi mantığını inceledim. Veritabanı yapısını şu şekilde modelledim:
