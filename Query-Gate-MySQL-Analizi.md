@@ -1,7 +1,9 @@
  # 🕵️‍♀️ Query Gate: MySQL Misconfiguration & Network Reconnaissance
 
-**Platform:** Siber Vatan Laboratuvarı  
+**Platform:** Siber Vatan Laboratuvarı
+
 **Kategori:** Network Security / Database Exploitation  
+
 **Durum:** ✅ Tamamlandı
 
 ## 🎯 Senaryo ve Zorluk (The Challenge)
