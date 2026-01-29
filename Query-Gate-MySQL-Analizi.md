@@ -16,9 +16,10 @@ nmap 172.20.7.45
 ```
 
 Analiz: Tarama sonucunda 3306 portunun açık olduğunu ve MySQL veritabanı servisinin çalıştığını tespit ettim. Veritabanı portunun dış ağa açık olması, kritik bir Güvenlik Yapılandırma Hatasıdır (Security Misconfiguration).
+
 🧠 Matematiksel Yaklaşım: İlişkisel Cebir (Relational Algebra)
 Bir Matematik bölümü öğrencisi olarak, SQL dilini ezberlemek yerine, bu dilin temelini oluşturan İlişkisel Cebir (Relational Algebra) ve Kümeler Teorisi mantığını inceledim. Veritabanı yapısını şu şekilde modelledim:
-Evrensel Küme ($E$): Veritabanı Sunucusu (Tüm verilerin tutulduğu alan).Alt Kümeler ($A, B \subset E$): Tablolar (Tables). Veriler satır ve sütun matrisleri şeklinde tutulur.
+```Evrensel Küme ($E$) ``` : Veritabanı Sunucusu (Tüm verilerin tutulduğu alan).Alt Kümeler ($A, B \subset E$): Tablolar (Tables). Veriler satır ve sütun matrisleri şeklinde tutulur.
 Fonksiyonlar ($f(x)$): Sorgular (Queries). SELECT komutu aslında bir filtreleme fonksiyonudur.Bu bakış açısıyla komutların mantığını şu şekilde oturttum:
 SHOW DATABASES $\rightarrow$ Evrensel kümedeki elemanları listele
 USE database $\rightarrow$ İşlem yapılacak alt kümeyi seç.
