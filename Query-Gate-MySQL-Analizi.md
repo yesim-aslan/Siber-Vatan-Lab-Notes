@@ -42,6 +42,7 @@ Hedef Tabloyu Bulma:
 SHOW TABLES;
 -- Sonuç: 'hacker_list' tablosu bulundu.
 ```
+
 Veriyi Okuma (Matris Gösterimi):
 ``` SELECT * FROM hacker_list;
 ```
