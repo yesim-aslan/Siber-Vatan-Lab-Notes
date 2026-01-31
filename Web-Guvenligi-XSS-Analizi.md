@@ -1,6 +1,4 @@
----
 
-**Dosya Adı:** `Web-Guvenligi-XSS-Analizi.md`
 
 ```markdown
 # 🕸️ Web Güvenliği: Cross-Site Scripting (XSS) Analizi
